@@ -1,0 +1,22 @@
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\B17_Ex05.exe.config
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\B17_Ex05.exe
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\B17_Ex05.pdb
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\BullsAndCows.dll
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\BullsAndCows.pdb
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.csprojResolveAssemblyReference.cache
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.FormColorSelection.resources
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.Properties.Resources.resources
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.csproj.GenerateResource.Cache
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.exe
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.pdb
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\B17_Ex05.exe.config
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.exe
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.pdb
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\B17_Ex05.exe
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\B17_Ex05.pdb
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\BullsAndCows.dll
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\bin\Debug\BullsAndCows.pdb
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.csprojResolveAssemblyReference.cache
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.FormColorSelection.resources
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.Properties.Resources.resources
+F:\BullsAndCows\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\B17_Ex05\obj\x86\Debug\B17_Ex05.csproj.GenerateResource.Cache

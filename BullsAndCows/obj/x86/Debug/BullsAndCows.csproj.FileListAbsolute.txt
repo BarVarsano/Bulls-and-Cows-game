@@ -1,0 +1,5 @@
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\bin\Debug\BullsAndCows.dll
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\bin\Debug\BullsAndCows.pdb
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\obj\x86\Debug\BullsAndCows.dll
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\obj\x86\Debug\BullsAndCows.pdb
+D:\שנה ב\C#\עבודה 5\B17 Ex05 NadavZvaig 301595856 BarVarsano 307929497\B17 Ex05 Nadav 301595856 Bar 307929497\BullsAndCows\obj\x86\Debug\BullsAndCows.csprojResolveAssemblyReference.cache
